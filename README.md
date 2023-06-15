@@ -2,7 +2,6 @@
 - 👀 I have been interested in programming since the beginning of 2023 and have begun to study this field intensively.
       I am currently working in procurement but I really want to change that and become a front-end developer. 
 - 🌱 I’m currently learning HTML, CSS & JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
  LinkedIN: https://www.linkedin.com/in/szymon-kalamaga-428442210
  Instagram: @s_kalamaga
